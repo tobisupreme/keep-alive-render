@@ -1,0 +1,17 @@
+{
+  "name": "keep-alive-render",
+  "version": "1.0.0",
+  "description": "Simple script to keep your free Render service alive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "tobisupreme (Oluwatobi Balogun)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "node-cron": "^3.0.2"
+  }
+}
